@@ -1,7 +1,7 @@
 ### Hi there, I'm Paweł. 👋
 
 # 💫 About Me:
-I’m currently learning how to integrate TypeScript with React<br><br>I have fallen in love with Next and Astro.<br><br>I like to spend my free time training and developing strength (powerbuilding). I love to read business, economy, physics and personal growth books.<br>
+I’m currently learning advanced usage of TypeScript, React and Next<br><br>I like to spend my free time training and developing strength (powerbuilding). I love to read business, economy, physics and personal growth books.<br>
 
 
 # 💻 Tech Stack:
@@ -24,20 +24,3 @@ I’m currently learning how to integrate TypeScript with React<br><br>I have fa
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 
 
-
-
-
-<!--
-**Pawel-Gnat/Pawel-Gnat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
