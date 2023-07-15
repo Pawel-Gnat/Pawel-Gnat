@@ -1,11 +1,13 @@
-### Hi there, I'm Paweł. 👋
+# Hi there! I’m Paweł, frontend developer fascinated in entrepreneurship and supporting local businesses. 👋
 
-# 💫 About Me:
-I’m currently learning advanced usage of TypeScript, React and Next<br><br>I like to spend my free time training and developing strength (powerbuilding). I love to read business, economy, physics and personal growth books.<br>
+## My Gallup talents:
+- Focus 🎯
+- Learner 📖
+- Input 📊
+- Significance 🤝
+- Achiever 🏆
 
-
-# 💻 Tech Stack:
-
+## My Tech Stack:
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
@@ -23,4 +25,7 @@ I’m currently learning advanced usage of TypeScript, React and Next<br><br>I l
 
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 
+## My freelance websites:
+Landscape architecture studio - [Strzelecka Studio](https://strzeleckastudio.pl/)
 
+# Check my pinned portfolio projects below!
