@@ -1,3 +1,4 @@
+![](banner.jpg)
 # Hi there! I’m Paweł, frontend developer fascinated in entrepreneurship and supporting local businesses. 👋
 
 ## My Gallup talents:
