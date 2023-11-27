@@ -29,11 +29,6 @@
 ## My freelance websites:
 Landscape architecture studio - [Strzelecka Studio](https://strzeleckastudio.pl/)
 
-## Open source:
-Educational blog - [GreenOn Software](https://greenonsoftware.com/)
-
 ## Connect with me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pawe%C5%82-gnat/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/pawel.coder/)
-
-### Check my pinned portfolio projects below!
