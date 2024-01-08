@@ -37,6 +37,6 @@ Landscape architecture studio - [Strzelecka Studio](https://strzeleckastudio.pl/
 
 ## Current side project: SAAS for Accounting Offices
 
-Fintax - [Link to an application] - [https://fintax-psi.vercel.app/]
+Fintax - [Link to an application](https://fintax-psi.vercel.app/)
 
-It's not ready yet. The tech stack is described [here] - [https://github.com/Pawel-Gnat/Fintax]
+It's not ready yet. The tech stack is described [here](https://github.com/Pawel-Gnat/Fintax)
