@@ -1,6 +1,8 @@
 ![](banner.jpg)
 # Hi there! I’m Paweł, frontend developer fascinated in entrepreneurship and supporting local businesses. 👋
 
+I'm currently working as a frontend developer in Polish digital agency/software house.
+
 ## My Gallup talents:
 - Focus 🎯
 - Learner 📖
@@ -32,3 +34,9 @@ Landscape architecture studio - [Strzelecka Studio](https://strzeleckastudio.pl/
 ## Connect with me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pawe%C5%82-gnat/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/pawel.coder/)
+
+## Current side project: SAAS for Accounting Offices
+
+Fintax - [Link to an application] - [https://fintax-psi.vercel.app/]
+
+It's not ready yet. The tech stack is described [here] - [https://github.com/Pawel-Gnat/Fintax]
