@@ -40,8 +40,9 @@ Landscape architecture studio - [Strzelecka Studio](https://strzeleckastudio.pl/
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pawe%C5%82-gnat/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/pawel.coder/)
 
-## Current side project: SAAS for Accounting Offices
+## Side project: iSave - Budget App connected with OCR and AI to generate data from receipts 
 
-Fintax - [Link to an application](https://fintax-psi.vercel.app/)
-
-It's not ready yet. The tech stack is described [here](https://github.com/Pawel-Gnat/Fintax)
+iSave - [Link to an application](https://isave-ten.vercel.app)
+The tech stack is described [here](https://github.com/Pawel-Gnat/isave)
+I try to improve this app whenever I have free time.
+Only Polish version of an app is provided, because my family uses it, which is a priority for me.
