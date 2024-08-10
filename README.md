@@ -43,6 +43,11 @@ Landscape architecture studio - [Strzelecka Studio](https://strzeleckastudio.pl/
 ## Side project: iSave - Budget App connected with OCR and AI to generate data from receipts 
 
 iSave - [Link to an application](https://isave-ten.vercel.app)
+
+You can find an access to a test account inside Github project readme.
+
 The tech stack is described [here](https://github.com/Pawel-Gnat/isave)
+
 I try to improve this app whenever I have free time.
+
 Only Polish version of an app is provided, because my family uses it, which is a priority for me.
