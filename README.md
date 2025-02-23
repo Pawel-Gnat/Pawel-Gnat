@@ -1,7 +1,7 @@
 ![](banner.jpg)
 # Hi there! I’m Paweł, frontend developer fascinated in entrepreneurship and supporting local businesses. 👋
 
-I'm currently working as a frontend developer in Polish digital agency/software house.
+I'm currently working remotely as a frontend developer in Polish software house.
 
 ## My Tech Stack:
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
@@ -25,9 +25,6 @@ I'm currently working as a frontend developer in Polish digital agency/software 
 ![Vite](https://img.shields.io/badge/Vite-B73BFE?style=for-the-badge&logo=vite&logoColor=FFD62E)
 
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
-
-## My freelance websites:
-Landscape architecture studio - [Strzelecka Studio](https://strzeleckastudio.pl/)
 
 ## Connect with me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pawe%C5%82-gnat/)
